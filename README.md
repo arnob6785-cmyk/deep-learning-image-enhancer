@@ -19,7 +19,7 @@ Evaluated across sample pairs by Member 3 using `bicubic_evaluation.py`:
 
 | Metric | Baseline Result | Sample Size |
 
-| PSNR | 22.0131 dB | 5 image pairs[cite: 5] |
-| SSIM | 0.4788 | 5 image pairs[cite: 5] |
+| PSNR | 22.0131 dB | 5 image pairs |
+| SSIM | 0.4788 | 5 image pairs |
 
 *Note: These baseline metrics represent the structural loss of classical interpolation that our SRCNN deep learning model aims to surpass.
